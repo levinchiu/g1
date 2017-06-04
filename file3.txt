@@ -1,3 +1,0 @@
-﻿Hello Git
-哈囉Git
-file3.txt
